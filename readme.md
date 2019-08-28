@@ -1,9 +1,4 @@
-### Overview
+# portfolio
+basic portfolio
 
-This is a basic static porfolio site.
-
-### Technologies used:
-
-HTML and CSS
-
-URL: https://omarvegaabreu.github.io/portfolio/
+This is a portfolio template using HTML and CSS. 
