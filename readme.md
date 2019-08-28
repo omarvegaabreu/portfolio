@@ -7,3 +7,5 @@ This is a basic static porfolio site.
 HTML and CSS
 
 URL: https://omarvegaabreu.github.io/portfolio/
+
+![](assets/Img/porfoliohome.jpg)
